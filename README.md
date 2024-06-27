@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+## Github Most Starred Repo Finder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This react app allows a user to search for a GitHub user's most starred repository by just entering their username and hitting the Search button.
+If the username is valid, you would then see a linked repository title, followed by it's description and languages used.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm i`
+
+Installs the dependencies for the project
 
 ### `npm start`
 

@@ -1,0 +1,12 @@
+.form {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    justify-content:flex-start;
+    padding-top: 16px;
+}
+
+button {
+    width: 180px;
+}
